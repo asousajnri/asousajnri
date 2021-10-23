@@ -32,6 +32,7 @@ entire ecosystem, in some Brazilian tech companies.
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1461993145/378/clojure.gif?1461993145" alt="Clojure" /></span>
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1467305795/624/wordpress.png?1467305795" alt="Worpress" /></span>
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1470351458/734/ux.png?1470351458" alt="IHC/UX" /></span>
+<span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1450470347/198/postgresql.png?1450470347" alt="IHC/UX" /></span>
 
 ## My Code Editors...
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1494295411/2228/emacs.png?1494295411" alt="GNU Emacs" /></span>
