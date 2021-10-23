@@ -40,8 +40,8 @@ entire ecosystem, in some Brazilian tech companies.
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1487711673/1779/webstorm.png?1487711673" alt="Web Storm" /></span>
 
 ## My latest activities
-* [SaaS Project at HubLocal Startup (WIP)]
-* [UX/UI and Front-End Developer - 777 NFT (WIP)]
+* [SaaS Project at HubLocal Startup (WIP)](https://hublocal.com.br/)
+* [UX/UI and Front-End Developer - 777 NFT (WIP)](https://www.instagram.com/777nftbrasil/)
 * [UX/UI and Front-End Developer - Farda Nova (Redesign)](https://saas.hublocal.com.br/)
 
 ## More about me
