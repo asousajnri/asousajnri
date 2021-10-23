@@ -39,15 +39,6 @@ entire ecosystem, in some Brazilian tech companies.
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1588895440/8944/vscode.png?1588895440" alt="VS Code" /></span>
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1487711673/1779/webstorm.png?1487711673" alt="Web Storm" /></span>
 
-## In my free time, I like...
-
-* ... run, Forrest, run
-<span><img size="20" height="20" src="https://emojis.slackmojis.com/emojis/images/1498861595/2529/gottarun.gif?1498861595" alt="Run" /></span>
-<span><img size="20" height="20" src="https://emojis.slackmojis.com/emojis/images/1466439103/529/sonic-running.gif?1466439103" alt="Run" /></span>
-<span><img size="20" height="20" src="https://emojis.slackmojis.com/emojis/images/1533074182/4322/yoshi_run.gif?1533074182" alt="Run" /></span>
-* drink <span><img size="20" height="20" src="https://emojis.slackmojis.com/emojis/images/1471045833/765/beer.gif?1471045833" alt="Beer" /></span>
-
-
 ## My latest activities
 * [SaaS Project at HubLocal Startup (WIP)]
 * [UX/UI and Front-End Developer - 777 NFT (WIP)]
