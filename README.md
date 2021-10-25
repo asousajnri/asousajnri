@@ -34,11 +34,16 @@ entire ecosystem, in some Brazilian tech companies.
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1470351458/734/ux.png?1470351458" alt="IHC/UX" /></span>
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1450470347/198/postgresql.png?1450470347" alt="IHC/UX" /></span>
 
-## My Code Editors...
+## My Code Editors
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1494295411/2228/emacs.png?1494295411" alt="GNU Emacs" /></span>
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1470299685/700/vim.png?1470299685" alt="VIM" /></span>
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1588895440/8944/vscode.png?1588895440" alt="VS Code" /></span>
 <span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1487711673/1779/webstorm.png?1487711673" alt="Web Storm" /></span>
+
+## Design Tools
+<span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1561512161/5893/figma.png?1561512161" alt="Figma" /></span>
+<span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1450464730/190/photoshop.png?1450464730" alt="Photoshop" /></span>
+<span><img  height="32" src="https://emojis.slackmojis.com/emojis/images/1450464717/189/illustrator.png?1450464717" alt="Illustrator" /></span>
 
 ## My latest activities
 * [SaaS Project at HubLocal Startup (WIP)](https://hublocal.com.br/)
